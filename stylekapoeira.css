@@ -1,0 +1,50 @@
+img {
+    height: 480px;
+    width: 640;
+}
+
+source {
+    height: 480px;
+    width: 640;
+}
+
+.vikisport {
+    height: 309px;
+    width: 516px;
+}
+
+.ontop {
+    display: flex;
+    width: 75px;
+    background-color: white;
+    bottom: 10px;
+    right: 100px;
+    border: 5px solid blue;
+    padding: 5px 9px 5px 9px;
+    align-items: center;
+    justify-content: center;
+}
+
+.soder {
+    border: 5px solid black;
+    padding: 5px 9px 5px 9px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 200px;
+}
+
+.vibor {
+    display: flex;
+    width: 75px;
+    background-color: white;
+    bottom: 10px;
+    right: 200px;
+    padding: 5px 9px 5px 9px;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url(images/capoeira.jpeg);
+}
